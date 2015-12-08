@@ -1,3 +1,11 @@
+This is a clone of Mathias Bynen's legendary OS X default script
+All credit goes to him and the contributors https://github.com/mathiasbynens/dotfiles
+All rights reserved, all wrongs reversed.
+Matt Hustonm
+
+
+
+
 # Mathias’s dotfiles
 
 ![Screenshot of my shell prompt](http://i.imgur.com/EkEtphC.png)
